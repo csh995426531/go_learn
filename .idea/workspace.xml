@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f5ec5d-440f-493d-b1b6-f4908949d8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch15/client/package_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/series/my_series.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/groutine/groutine_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/share_mem/share_mem_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/glide.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/glide.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/glide.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/concurrent_map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/concurrent_map_benchmark_adapter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/concurrent_map_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/int64_key.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/map_benchmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/map_benchmark_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/rwlock_map_benchmark_adapter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/string_key.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/vendor/github.com/easierway/concurrent_map/sync_map_benchmark_adapter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/path/winbug.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/path/winbug.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch17/share_mem/share_mem_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="e#19#63#0" expanded="true" />
               </folding>
@@ -190,32 +200,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch17" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -353,15 +343,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49905482" visible="true" weight="0.37590945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49905482" visible="true" weight="0.37590945" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.3116622" />
       <window_info id="Favorites" order="2" sideWeight="0.50094515" side_tool="true" weight="0.3116622" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4898949" visible="true" weight="0.3676732" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4898949" visible="true" weight="0.3676732" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,6 +368,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="引用远程包 go git -u ****&#10;依赖管理 glide install&#10;协程  go func(){}()&#10;并发锁 sync.mutex&#10;并发等待 sync.waitGroup" />
+    <option name="LAST_COMMIT_MESSAGE" value="引用远程包 go git -u ****&#10;依赖管理 glide install&#10;协程  go func(){}()&#10;并发锁 sync.mutex&#10;并发等待 sync.waitGroup" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/helloworld.go" />
@@ -616,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch17/share_mem/share_mem_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#19#63#0" expanded="true" />
           </folding>
