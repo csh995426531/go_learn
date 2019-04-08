@@ -47,7 +47,7 @@ func TestCounterWaitGroup(t *testing.T) {
 	var mt sync.Mutex
 	counter := 0
 
-	for i := 0; i < 5000; i++ {
+	for i := 0; i < 500000; i++ {
 		mt.Lock()
 		wg.Add(1)
 		go func() {
