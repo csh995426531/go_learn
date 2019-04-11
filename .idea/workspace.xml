@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f5ec5d-440f-493d-b1b6-f4908949d8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/web4.3/escape/index.gtpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web4.3/escape/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web4.5/file/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web4.5/form_file/form.gtpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web4.5/form_file/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/update.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/update.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/resolver.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/resolver.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/scan.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/scan.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/glide.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/glide.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/godep/godep.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/godep/godep.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/repo/vcs.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/repo/vcs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/tree/tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/tree/tree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/util/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/util/util.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,32 +42,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web4.3/escape/index.gtpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/web4.3/escape/main.go">
+        <entry file="file://$PROJECT_DIR$/src/web4.5/file/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+            <state relative-caret-position="209">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#14#43#0" expanded="true" />
+                <element signature="e#14#51#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web4.1/form/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="31" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -89,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/helloworld.go" />
         <option value="$PROJECT_DIR$/src/HelloWorld.go" />
         <option value="$PROJECT_DIR$/src/test.go" />
         <option value="$PROJECT_DIR$/src/test1/test1.go" />
@@ -138,6 +130,9 @@
         <option value="$PROJECT_DIR$/src/web4.1/form/main.go" />
         <option value="$PROJECT_DIR$/src/web4.3/escape/index.gtpl" />
         <option value="$PROJECT_DIR$/src/web4.3/escape/main.go" />
+        <option value="$PROJECT_DIR$/src/web4.5/form_file/main.go" />
+        <option value="$PROJECT_DIR$/src/web4.5/form_file/form.gtpl" />
+        <option value="$PROJECT_DIR$/src/web4.5/file/main.go" />
       </list>
     </option>
   </component>
@@ -183,6 +178,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="web4.3" type="462c0819:PsiDirectoryNode" />
               <item name="escape" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web4.5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,11 +333,11 @@
     <frame x="1913" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.20452708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.20452708" />
       <window_info id="Structure" order="1" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info id="Favorites" order="2" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4987874" weight="0.3285968" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49717057" weight="0.3285968" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4882781" weight="0.29662523" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -345,8 +346,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49312854" weight="0.3250444" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48585287" visible="true" weight="0.24689165" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5141471" side_tool="true" visible="true" weight="0.24689165" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48504445" visible="true" weight="0.24689165" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5149555" side_tool="true" visible="true" weight="0.24689165" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -404,7 +405,8 @@
     <MESSAGE value="web hello world" />
     <MESSAGE value="web login" />
     <MESSAGE value="web form" />
-    <option name="LAST_COMMIT_MESSAGE" value="web form" />
+    <MESSAGE value="web 转义" />
+    <option name="LAST_COMMIT_MESSAGE" value="web 转义" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/helloworld.go" />
@@ -617,16 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch17/share_mem/share_mem_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#19#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/github.com/Masterminds/glide/path/winbug.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1216">
@@ -665,13 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch18/csp/async_service_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -719,16 +704,63 @@
     <entry file="file://$PROJECT_DIR$/src/web4.3/escape/index.gtpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web4.3/escape/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch18/csp/async_service_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch17/share_mem/share_mem_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="e#19#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/test/bb7044851e05a3f53c6e555b9ce7cd83.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/form.gtpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.5/file/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#14#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
