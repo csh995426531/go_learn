@@ -1,0 +1,6 @@
+hash: 409df860710ce4fb85895db8253737d835ff1970556c5a7959f3e9c1ccb4ed50
+updated: 2019-04-22T21:58:09.8987375+08:00
+imports:
+- name: github.com/astaxie/goredis
+  version: 1f1c6e6fc3a82d1ad7ca806451710bf29f10a13c
+testImports: []

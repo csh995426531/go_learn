@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f5ec5d-440f-493d-b1b6-f4908949d8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/web4.5/file/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web4.5/form_file/form.gtpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web4.5/form_file/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web5.1/redis/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web5.1/sql/mysql.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/update.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/action/update.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/resolver.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/resolver.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/scan.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/dependency/scan.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/glide.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/glide.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/godep/godep.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/godep/godep.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/repo/vcs.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/repo/vcs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/tree/tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/tree/tree.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/Masterminds/glide/util/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Masterminds/glide/util/util.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +31,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/web4.5/file/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="114">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web5.1/sql/mysql.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-855">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="36" />
               <folding>
-                <element signature="e#14#51#0" expanded="true" />
+                <element signature="e#14#95#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/redis.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
+              <folding>
+                <element signature="e#14#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/vendor/github.com/astaxie/goredis/redis.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="641" column="22" selection-start-line="641" selection-start-column="22" selection-end-line="641" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/glide.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#29#92#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/glide.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web5.1/sql/glide.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -66,6 +133,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>get</find>
+      <find>&quot;git</find>
+      <find>r</find>
     </findStrings>
     <dirStrings>
       <dir>H:\work\go\workspace\src</dir>
@@ -82,10 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWorld.go" />
-        <option value="$PROJECT_DIR$/src/test.go" />
-        <option value="$PROJECT_DIR$/src/test1/test1.go" />
-        <option value="$PROJECT_DIR$/src/test2/test2.go" />
         <option value="$PROJECT_DIR$/src/ch1/hello.go" />
         <option value="$PROJECT_DIR$/src/ch2/test/first_test.go" />
         <option value="$PROJECT_DIR$/src/ch2/fib/fib_test.go" />
@@ -133,14 +198,18 @@
         <option value="$PROJECT_DIR$/src/web4.5/form_file/main.go" />
         <option value="$PROJECT_DIR$/src/web4.5/form_file/form.gtpl" />
         <option value="$PROJECT_DIR$/src/web4.5/file/main.go" />
+        <option value="$PROJECT_DIR$/src/web5.1/sql/glide.yaml" />
+        <option value="$PROJECT_DIR$/src/web5.1/sql/mysql.go" />
+        <option value="$PROJECT_DIR$/src/web5.1/redis/glide.yaml" />
+        <option value="$PROJECT_DIR$/src/web5.1/redis/redis.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1908" />
-    <option name="y" value="-12" />
-    <option name="width" value="2904" />
-    <option name="height" value="1584" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -148,7 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,36 +227,50 @@
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web4.3" type="462c0819:PsiDirectoryNode" />
+              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web4.3" type="462c0819:PsiDirectoryNode" />
-              <item name="escape" type="462c0819:PsiDirectoryNode" />
+              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web4.5" type="462c0819:PsiDirectoryNode" />
+              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="github.com" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +304,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestAsyncService in ch19/select">
+  <component name="RunManager" selected="Go Build.go build redis.go">
+    <configuration name="go build redis.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/web5.1/redis/redis.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestAsyncService in ch18/csp" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="workspace" />
       <working_directory value="$PROJECT_DIR$/src/ch18/csp" />
@@ -243,17 +333,6 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^TestAsyncService$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestCounter in ch17/share_mem" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="workspace" />
-      <working_directory value="$PROJECT_DIR$/src/ch17/share_mem" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="ch17/share_mem" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestCounter$" />
       <method v="2" />
     </configuration>
     <configuration name="TestCounterMutex in ch17/share_mem" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -280,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build redis.go" />
         <item itemvalue="Go Test.TestAsyncService in ch19/select" />
         <item itemvalue="Go Test.TestAsyncService in ch18/csp" />
         <item itemvalue="Go Test.TestCounterWaitGroup in ch17/share_mem" />
         <item itemvalue="Go Test.TestCounterMutex in ch17/share_mem" />
-        <item itemvalue="Go Test.TestCounter in ch17/share_mem" />
       </list>
     </recent_temporary>
   </component>
@@ -330,15 +409,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.20452708" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.21179625" />
       <window_info id="Structure" order="1" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info id="Favorites" order="2" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49717057" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4882781" weight="0.29662523" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4882781" weight="0.296034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,8 +424,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49312854" weight="0.3250444" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48504445" visible="true" weight="0.24689165" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5149555" side_tool="true" visible="true" weight="0.24689165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48342764" visible="true" weight="0.203966" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51657236" side_tool="true" weight="0.3090586" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,14 +484,10 @@
     <MESSAGE value="web login" />
     <MESSAGE value="web form" />
     <MESSAGE value="web 转义" />
-    <option name="LAST_COMMIT_MESSAGE" value="web 转义" />
+    <MESSAGE value="web 文件上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="web 文件上传" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/helloworld.go" />
-    <entry file="file://$PROJECT_DIR$/src/github.com/Ballwang/imooc/test.go" />
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.go" />
-    <entry file="file://$PROJECT_DIR$/src/test1/test1.go" />
-    <entry file="file://$PROJECT_DIR$/src/test.go" />
     <entry file="file://$PROJECT_DIR$/src/test2/test2.go" />
     <entry file="file://$PROJECT_DIR$/src/ch3/arr.go" />
     <entry file="file://$PROJECT_DIR$/src/ch2/test/first_test.go">
@@ -602,13 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch16/groutine/groutine_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -623,13 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1216">
           <caret line="75" column="67" selection-start-line="75" selection-start-column="67" selection-end-line="75" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/glide.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -745,22 +805,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
+    <entry file="file://$PROJECT_DIR$/src/web4.5/file/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="114">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#14#43#0" expanded="true" />
+            <element signature="e#29#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web4.5/file/main.go">
+    <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/glide.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web5.1/sql/glide.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web5.1/redis/glide.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web5.1/redis/vendor/github.com/astaxie/goredis/redis.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="641" column="22" selection-start-line="641" selection-start-column="22" selection-end-line="641" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web5.1/sql/mysql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="36" />
           <folding>
-            <element signature="e#14#51#0" expanded="true" />
+            <element signature="e#14#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web5.1/redis/redis.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
+          <folding>
+            <element signature="e#14#66#0" expanded="true" />
           </folding>
         </state>
       </provider>

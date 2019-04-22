@@ -1,0 +1,3 @@
+package: web5.1/redis
+import:
+  - package: github.com/astaxie/goredis

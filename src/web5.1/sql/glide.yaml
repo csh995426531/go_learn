@@ -1,0 +1,4 @@
+package: web5.1/sql
+import:
+  - package: github.com/Go-SQL-Driver/MySQL
+    version: 1.4
