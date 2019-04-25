@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f5ec5d-440f-493d-b1b6-f4908949d8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/web5.1/redis/redis.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web5.1/sql/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web6.1/cookie/cookie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web7.1/json/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web8.1/service/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web8.1/socket/socket.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web8.1/user/user.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/web5.1/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/web5.1/redis/redis.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,91 +36,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web4.5/file/main.go">
+        <entry file="file://$PROJECT_DIR$/src/web8.1/socket/socket.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web5.1/sql/mysql.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-855">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="228">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
-                <element signature="e#14#95#0" expanded="true" />
+                <element signature="e#14#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web8.1/user/user.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-64">
+              <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+              <folding>
+                <element signature="e#14#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/redis.go">
+        <entry file="file://$PROJECT_DIR$/src/web8.1/service/service.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
+            <state relative-caret-position="335">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding>
-                <element signature="e#14#66#0" expanded="true" />
+                <element signature="e#14#38#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/vendor/github.com/astaxie/goredis/redis.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="641" column="22" selection-start-line="641" selection-start-column="22" selection-end-line="641" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/glide.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#29#92#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/glide.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web5.1/sql/glide.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -135,6 +85,9 @@
       <find>get</find>
       <find>&quot;git</find>
       <find>r</find>
+      <find>local</find>
+      <find>localt</find>
+      <find>string</find>
     </findStrings>
     <dirStrings>
       <dir>H:\work\go\workspace\src</dir>
@@ -151,13 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ch1/hello.go" />
-        <option value="$PROJECT_DIR$/src/ch2/test/first_test.go" />
-        <option value="$PROJECT_DIR$/src/ch2/fib/fib_test.go" />
-        <option value="$PROJECT_DIR$/src/ch3/func_test.go" />
-        <option value="$PROJECT_DIR$/src/ch3/arr.go" />
-        <option value="$PROJECT_DIR$/src/ch4/arr.go" />
-        <option value="$PROJECT_DIR$/src/ch4/arr_test.go" />
         <option value="$PROJECT_DIR$/src/ch4/if_switch.go" />
         <option value="$PROJECT_DIR$/src/ch4/slice_test.go" />
         <option value="$PROJECT_DIR$/src/ch4/if_switch_test.go" />
@@ -202,14 +148,20 @@
         <option value="$PROJECT_DIR$/src/web5.1/sql/mysql.go" />
         <option value="$PROJECT_DIR$/src/web5.1/redis/glide.yaml" />
         <option value="$PROJECT_DIR$/src/web5.1/redis/redis.go" />
+        <option value="$PROJECT_DIR$/src/web6.1/cookie/cookie.go" />
+        <option value="$PROJECT_DIR$/src/web7.1/json/json.go" />
+        <option value="$PROJECT_DIR$/src/web8.1/socket/socket.go" />
+        <option value="$PROJECT_DIR$/src/web8.1/socket/socket_1.go" />
+        <option value="$PROJECT_DIR$/src/web8.1/socket/service.go" />
+        <option value="$PROJECT_DIR$/src/web8.1/user/user.go" />
+        <option value="$PROJECT_DIR$/src/web8.1/service/service.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="x" value="-8" />
+    <option name="width" value="1934" />
+    <option name="height" value="937" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -233,38 +185,14 @@
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
+              <item name="web8.1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="github.com" type="462c0819:PsiDirectoryNode" />
+              <item name="web8.1" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,6 +217,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\work\go\workspace\src\web8.1\service" />
+      <recent name="H:\work\go\workspace\src\web8.1\user" />
       <recent name="H:\work\go\workspace\src\ch4\ifswitch" />
     </key>
   </component>
@@ -304,7 +234,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build redis.go">
+  <component name="RunManager" selected="Go Build.go build user.go">
+    <configuration name="go build json.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/web7.1/json/json.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build redis.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="workspace" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -313,57 +251,37 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="TestAsyncService in ch18/csp" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build service.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="workspace" />
-      <working_directory value="$PROJECT_DIR$/src/ch18/csp" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="ch18/csp" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/web8.1/socket/service.go" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestAsyncService$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestAsyncService in ch19/select" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build socket.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="workspace" />
-      <working_directory value="$PROJECT_DIR$/src/ch19/select" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="ch19/select" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/web8.1/socket/socket.go" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestAsyncService$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestCounterMutex in ch17/share_mem" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build user.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="workspace" />
-      <working_directory value="$PROJECT_DIR$/src/ch17/share_mem" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="ch17/share_mem" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/web8.1/socket/user.go" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestCounterMutex$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestCounterWaitGroup in ch17/share_mem" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="workspace" />
-      <working_directory value="$PROJECT_DIR$/src/ch17/share_mem" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="ch17/share_mem" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestCounterWaitGroup$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build user.go" />
+        <item itemvalue="Go Build.go build service.go" />
+        <item itemvalue="Go Build.go build socket.go" />
+        <item itemvalue="Go Build.go build json.go" />
         <item itemvalue="Go Build.go build redis.go" />
-        <item itemvalue="Go Test.TestAsyncService in ch19/select" />
-        <item itemvalue="Go Test.TestAsyncService in ch18/csp" />
-        <item itemvalue="Go Test.TestCounterWaitGroup in ch17/share_mem" />
-        <item itemvalue="Go Test.TestCounterMutex in ch17/share_mem" />
       </list>
     </recent_temporary>
   </component>
@@ -410,22 +328,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.21179625" />
       <window_info id="Structure" order="1" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info id="Favorites" order="2" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49717057" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4882781" weight="0.296034" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48793566" weight="0.42634562" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4968017" weight="0.3264642" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49597856" weight="0.32577905" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49312854" weight="0.3250444" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48342764" visible="true" weight="0.203966" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51657236" side_tool="true" weight="0.3090586" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4919571" weight="0.3243626" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4819035" visible="true" weight="0.28895184" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5180965" side_tool="true" visible="true" weight="0.28895184" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,42 +404,10 @@
     <MESSAGE value="web form" />
     <MESSAGE value="web 转义" />
     <MESSAGE value="web 文件上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="web 文件上传" />
+    <MESSAGE value="redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test2/test2.go" />
-    <entry file="file://$PROJECT_DIR$/src/ch3/arr.go" />
-    <entry file="file://$PROJECT_DIR$/src/ch2/test/first_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch9/str/string_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch9/str/string_func_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#13#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch11/interface/interface_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://H:/Go/src/builtin/builtin.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -634,13 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4/slice_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -814,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="114">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#29#92#0" expanded="true" />
@@ -860,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/src/web5.1/sql/mysql.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-855">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="36" />
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="e#14#95#0" expanded="true" />
           </folding>
@@ -869,10 +749,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web5.1/redis/redis.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
+        <state relative-caret-position="406">
+          <caret line="41" column="67" lean-forward="true" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
           <folding>
             <element signature="e#14#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Go/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="474" column="35" selection-start-line="474" selection-start-column="29" selection-end-line="474" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web6.1/cookie/cookie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/slice_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web7.1/json/json.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web8.1/socket/socket.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web8.1/user/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web8.1/service/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
