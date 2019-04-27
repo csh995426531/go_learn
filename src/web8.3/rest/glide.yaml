@@ -1,0 +1,3 @@
+package: web8.3/rest
+import:
+  - package : github.com/drone/routes

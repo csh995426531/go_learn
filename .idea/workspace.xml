@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f5ec5d-440f-493d-b1b6-f4908949d8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/web8.1/websocket/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web8.1/websocket/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web8.3/rest/rest.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,41 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web8.1/websocket/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/web8.1/websocket/service.go">
+        <entry file="file://$PROJECT_DIR$/src/web8.3/rest/rest.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="335">
+              <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
               <folding>
-                <element signature="e#14#71#0" expanded="true" />
+                <element signature="e#14#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web8.1/websocket/glide.yaml">
+        <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            <state relative-caret-position="563">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web5.1/redis/glide.yaml">
+        <entry file="file://$PROJECT_DIR$/src/web4.3/escape/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="181">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -103,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ch2/constant/constant_test.go" />
-        <option value="$PROJECT_DIR$/src/ch4/ifswitch_test.go" />
         <option value="$PROJECT_DIR$/src/ch4/switch_test.go" />
         <option value="$PROJECT_DIR$/src/ch4/ifswitch/switch_test.go" />
         <option value="$PROJECT_DIR$/src/ch8/map/map_ext_test.go" />
@@ -154,6 +142,8 @@
         <option value="$PROJECT_DIR$/src/web8.1/websocket/index.html" />
         <option value="$PROJECT_DIR$/src/web8.1/websocket/glide.yaml" />
         <option value="$PROJECT_DIR$/src/web8.1/websocket/service.go" />
+        <option value="$PROJECT_DIR$/src/web8.3/rest/glide.yaml" />
+        <option value="$PROJECT_DIR$/src/web8.3/rest/rest.go" />
       </list>
     </option>
   </component>
@@ -185,14 +175,51 @@
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web8.1" type="462c0819:PsiDirectoryNode" />
+              <item name="web4.3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web4.3" type="462c0819:PsiDirectoryNode" />
+              <item name="escape" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web5.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web6.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web7.1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="web8.1" type="462c0819:PsiDirectoryNode" />
-              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web8.3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web8.3" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,10 +353,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="510" y="0" width="1548" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.21447721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972973" visible="true" weight="0.2147651" />
       <window_info id="Structure" order="1" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info id="Favorites" order="2" sideWeight="0.5027027" side_tool="true" weight="0.38237673" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,8 +369,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4919571" weight="0.3243626" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48123324" visible="true" weight="0.35835695" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51876676" side_tool="true" visible="true" weight="0.35835695" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48120806" visible="true" weight="0.3624642" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.518792" side_tool="true" visible="true" weight="0.3624642" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -408,20 +435,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="json socker" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch2/constant/constant_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4/ifswitch/switch_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch14/panic_recover/panic_recover_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -624,16 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web4.3/escape/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#14#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch18/csp/async_service_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-274">
@@ -696,13 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="641" column="22" selection-start-line="641" selection-start-column="22" selection-end-line="641" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -795,6 +791,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/web8.1/websocket/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/web8.1/websocket/glide.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -802,12 +808,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web8.1/websocket/service.go">
+    <entry file="file://$PROJECT_DIR$/src/web8.3/rest/glide.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.5/form_file/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web4.3/escape/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web8.3/rest/rest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
           <folding>
-            <element signature="e#14#71#0" expanded="true" />
+            <element signature="e#14#63#0" expanded="true" />
           </folding>
         </state>
       </provider>

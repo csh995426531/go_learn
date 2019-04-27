@@ -1,0 +1,6 @@
+hash: d5eb87fb53812c4ae091fd195e9b58208c7aeb7e1dd9d9620d0dfe2d7c02a127
+updated: 2019-04-27T18:53:53.3589132+08:00
+imports:
+- name: github.com/drone/routes
+  version: 853bef2b231162bb7b09355720416d3af1510d88
+testImports: []
