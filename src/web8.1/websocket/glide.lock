@@ -1,0 +1,8 @@
+hash: 10620737ba5424ba99135f9e7f3386eec06298d62d17b5afd205a30ce4903004
+updated: 2019-04-27T18:33:18.7441488+08:00
+imports:
+- name: github.com/golang/net
+  version: 4829fb13d2c62012c17688fa7f629f371014946d
+  subpackages:
+  - websocket
+testImports: []

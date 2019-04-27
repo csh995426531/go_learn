@@ -1,0 +1,3 @@
+package: web8.1/websocket
+import:
+  - package: github.com/golang/net/websocket
