@@ -28,7 +28,7 @@ func login(w http.ResponseWriter, r *http.Request) {
 		//slice := [] string {"football", "basketball", "tennis"}
 		//a:=Slice_diff(r.Form["interest"],slice)
 		//if a != nil {
-		//	http.Error(w, "interest err", 506)
+		//	rpc_http.Error(w, "interest err", 506)
 		//}
 
 		slice_status := false

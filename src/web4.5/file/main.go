@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	target_url := "http://localhost:9090/"
+	target_url := "rpc_http://localhost:9090/"
 	filename := "./abc.jpg"
 	postFile(filename, target_url)
 }
