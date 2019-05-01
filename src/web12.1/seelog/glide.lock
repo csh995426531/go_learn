@@ -1,0 +1,6 @@
+hash: 4ecbf0dd0fc1c3dcd6bb20128ea1d1490ef3d5511e28d7b214ead5631d398a66
+updated: 2019-04-29T22:28:50.9973567+08:00
+imports:
+- name: github.com/cihub/seelog
+  version: f561c5e57575bb1e0a2167028b7339b3a8d16fb4
+testImports: []

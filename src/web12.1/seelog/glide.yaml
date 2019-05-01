@@ -1,0 +1,3 @@
+package: web12.1/seelog
+import:
+  - package: github.com/cihub/seelog

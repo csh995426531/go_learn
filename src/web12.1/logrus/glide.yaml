@@ -1,0 +1,4 @@
+package: web12.1/logrus
+import:
+  - package: github.com/golang/sys
+  - package: github.com/Sirupsen/logrus

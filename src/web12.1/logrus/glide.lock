@@ -1,0 +1,12 @@
+hash: b43b1be752ab445a4a8ff456b9af4398736423b063310712d3c65bdd43c4f58a
+updated: 2019-05-01T16:05:05.5845703+08:00
+imports:
+- name: github.com/golang/sys
+  version: d89cdac9e8725f2aefce25fcbfef41134c9ad412
+- name: github.com/konsorten/go-windows-terminal-sequences
+  version: f55edac94c9bbba5d6182a4be46d86a2c9b5b50e
+- name: github.com/Sirupsen/logrus
+  version: 9b3cdde74fbe9443d704467498a7dcb61a79de9b
+- name: golang.org/x/sys/unix
+  version: d89cdac9e8725f2aefce25fcbfef41134c9ad412
+testImports: []
