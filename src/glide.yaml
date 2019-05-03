@@ -1,0 +1,86 @@
+package: .
+import:
+- package: github.com/Masterminds/semver
+- package: github.com/Masterminds/vcs
+- package: github.com/Pallinder/go-randomdata
+- package: github.com/Sirupsen/logrus
+- package: github.com/astaxie/goredis
+- package: github.com/clbanning/x2j
+- package: github.com/codegangsta/cli
+- package: github.com/couchbase/cbauth
+- package: github.com/couchbase/clog
+- package: github.com/couchbaselabs/go_n1ql
+- package: github.com/derekparker/delve
+  subpackages:
+  - service
+  - service/rpc2
+  - service/rpccommon
+  - terminal
+- package: github.com/drone/routes
+- package: github.com/edsrzf/mmap-go
+- package: github.com/fsnotify/fsnotify
+- package: github.com/glendc/gopher-json
+- package: github.com/gogo/protobuf
+  subpackages:
+  - proto
+- package: github.com/golang/net
+  subpackages:
+  - websocket
+- package: github.com/gorilla/websocket
+- package: github.com/mitchellh/go-homedir
+- package: github.com/pelletier/go-toml
+- package: github.com/peterh/liner
+- package: github.com/siddontang/go
+  subpackages:
+  - bson
+  - filelock
+  - hack
+  - ioutil2
+  - log
+  - num
+  - snappy
+  - sync2
+- package: github.com/siddontang/goredis
+- package: github.com/siddontang/rdb
+- package: github.com/stretchr/testify
+  subpackages:
+  - mock
+- package: github.com/syndtr/goleveldb
+  subpackages:
+  - leveldb
+  - leveldb/cache
+  - leveldb/filter
+  - leveldb/iterator
+  - leveldb/opt
+  - leveldb/storage
+  - leveldb/util
+- package: github.com/ugorji/go
+  subpackages:
+  - codec
+- package: github.com/yuin/gopher-lua
+- package: golang.org/x/crypto
+  subpackages:
+  - acme/autocert
+  - pbkdf2
+- package: golang.org/x/net
+  subpackages:
+  - context
+- package: golang.org/x/sys
+  subpackages:
+  - unix
+  - windows
+  - windows/registry
+  - windows/svc
+  - windows/svc/debug
+  - windows/svc/eventlog
+  - windows/svc/mgr
+- package: google.golang.org/appengine
+  subpackages:
+  - cloudsql
+- package: gopkg.in/yaml.v2
+testImport:
+- package: github.com/easierway/concurrent_map
+- package: github.com/go-check/check
+- package: github.com/mattn/go-sqlite3
+- package: github.com/onsi/ginkgo
+- package: github.com/onsi/gomega
